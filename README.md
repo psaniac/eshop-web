@@ -1,14 +1,14 @@
 # eshop-web
 An original eshop. Written in PHP. Uses an SQL database to store information. Written with security practices in mind.
 ## Features
-Products page
-Product detail page
-Shopping cart
-Orders - user can order products, admin can view and fulfill orders
-User accounts
-Sending emails on order creation
-Login with username/password or login with Google
-Administator accounts
+- Products page
+- Product detail page
+- Shopping cart
+- Orders - user can order products, admin can view and fulfill orders
+- User accounts
+- Sending emails on order creation
+- Login with username/password or login with Google
+- Administator accounts
 
 ## Setup
 You will need a functioning webserver that supports PHP and an SQL server. They do not need to be on the same machine. You will also need an SMTP server if you want the email functionality to work.
